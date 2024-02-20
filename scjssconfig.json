@@ -1,9 +1,0 @@
-{
-  "sitecore": {
-    "instancePath": "",
-    "apiKey": "BDECAF85-40D1-4835-803B-E836E10A0806",
-    "deploySecret": "-D_f!Yg?w02K9!JBNW@0z0@!?0vg@ZpU",
-    "deployUrl": "https://vgz-inno-2024-cm.sitecoredemo.com/sitecore/api/jss/import",
-    "layoutServiceHost": "https://vgz-inno-2024-cm.sitecoredemo.com"
-  }
-}
